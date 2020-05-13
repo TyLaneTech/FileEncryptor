@@ -1,0 +1,10 @@
+\\Mac\Home\Desktop\Project\Key Encryptor\obj\Debug\Key_Encryptor.Properties.Resources.resources
+\\Mac\Home\Desktop\Project\Key Encryptor\obj\Debug\Key Encryptor.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Project\Key Encryptor\obj\Debug\Key Encryptor.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Project\Key Encryptor\bin\Debug\Key Encryptor.exe.config
+\\Mac\Home\Desktop\Project\Key Encryptor\bin\Debug\Key Encryptor.exe
+\\Mac\Home\Desktop\Project\Key Encryptor\bin\Debug\Key Encryptor.pdb
+\\Mac\Home\Desktop\Project\Key Encryptor\obj\Debug\Key_Encryptor.Form1.resources
+\\Mac\Home\Desktop\Project\Key Encryptor\obj\Debug\Key Encryptor.exe
+\\Mac\Home\Desktop\Project\Key Encryptor\obj\Debug\Key Encryptor.pdb
+\\Mac\Home\Desktop\Project\Key Encryptor\obj\Debug\Key Encryptor.csprojAssemblyReference.cache
